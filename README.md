@@ -1,1 +1,1 @@
-# meta-amherst-arm-devel
+# meta-amherst-arm
