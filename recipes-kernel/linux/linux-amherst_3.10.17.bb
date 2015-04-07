@@ -12,7 +12,7 @@ DEPENDS += "lzop-native bc-native"
 
 # back to -1.0.0_ga branch for all patch release
 SRCBRANCH = "master"
-SRCREV = "433a3f7de2af574e87b0b1aaae2098124cee4fe2"
+SRCREV = "3df5b10b1ac368e8a277d13bc599f6e1df8c929f"
 LOCALVERSION = "-1.0.2_ga"
 
 SRC_URI += "file://0001-ARM-clk-imx6q-fix-video-divider-for-revision-1.0-of-.patch \
